@@ -1,1 +1,1 @@
-# project
+This project is an first attempt to build something from scratch with a design layout.
